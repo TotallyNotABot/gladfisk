@@ -1,1 +1,2 @@
-Min hamster er ikke en glad hamster. 
+Min hamster er en glad hamster. 
+
